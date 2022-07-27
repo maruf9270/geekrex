@@ -3,6 +3,8 @@
     background-color: aqua;
 } */
 
+
+
 .carousel-item img{
     height: 80vh;
     object-fit: cover;
@@ -15,6 +17,10 @@
         /* overflow-x: hidden; */
      }
     
-}  
+} 
 
+.card img{
+    height: 100%;
+    object-fit: cover;
+}
     
